@@ -1,3 +1,5 @@
+//Link to Library: http://www.rinkydinkelectronics.com/library.php?id=73
+
 //Include I2C Library
 #include <Wire.h>
 #include <DS3231.h>
